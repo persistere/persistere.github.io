@@ -1,31 +1,44 @@
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
 
 
-<div class="tableauPlaceholder" id="viz1641248819099" style="position: relative">
-  <object class="tableauViz" style="display:none;"
-    ><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F"/> <param name="embed_code_version" value="3"/>
-    <param name="site_root" value=""/><param name="name" value="AroundtheAntarctic&#47;MapClean"/><param
-      name="tabs"
-      value="no"/><param name="toolbar" value="yes"/><param name="animate_transition" value="yes"/><param
-      name="display_static_image"
-      value="yes"/><param name="display_spinner" value="yes"/><param name="display_overlay" value="yes"/><param
-      name="display_count"
-      value="yes"/><param name="language" value="en-US"
-  /></object>
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/kennedybarros)](https://www.instagram.com/otavio5iqueira/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/kennedybarros)](https://www.linkedin.com/in/otavio-siqueira/)
+</h4>
+
+<h3 align="center">  <br>
+
+Hi, I'm Otávio Siqueira! 🇧🇷
+<br>
+
+</h3>
+
+```
+Be a persistent person, but with focus.  
+```
+## Technologies I am currently studying 💻
+
+  - HTML
+  - CSS
+  - JavaScript
+
+
+## About me 👨🏻‍💻
+
+-  I’m currently learning ...
+
+
+
+## My data on Github 🐙
+<div align="center">
+  <a href="https://github.com/persistere">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=persistere&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=persistere&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<script type="text/javascript">
-  var divElement = document.getElementById('viz1641248819099');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  if (divElement.offsetWidth > 800) {
-    vizElement.style.width = '100%';
-    vizElement.style.height = divElement.offsetWidth * 0.75 + 'px';
-  } else if (divElement.offsetWidth > 500) {
-    vizElement.style.width = '100%';
-    vizElement.style.height = divElement.offsetWidth * 0.75 + 'px';
-  } else {
-    vizElement.style.width = '100%';
-    vizElement.style.height = '1577px';
-  }
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+ 
+ <hr>
+
+ ![Snake animation](https://github.com/persistere/otaviosiqueira/blob/main/github-contribution-grid-snake.svg)
